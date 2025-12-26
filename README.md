@@ -1,0 +1,1 @@
+•	Gene Identification Summary: The NCBI BLASTn analysis of the provided DNA sequence shows a 100% identity match with Drosophila hydei protein scarlet (LOC111604684) mRNA (Accession: XM_023322850.2). This gene is an ortholog of the well-known Drosophila melanogaster scarlet gene, which encodes an ABC transporter essential for pigment precursor transport.
